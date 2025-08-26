@@ -1,3 +1,6 @@
+    LAUNDRY
+
+
 Ini adalah projek sekolah membuat Aplikasi laundry dengan 3 modul yaitu user, admin, dan kasir. aplikasi ini dibuat menggunakan PHP;
 
 Modul user adalah antarmuka untuk pelanggan, memungkinkan mereka melakukan pemesanan, memilih jenis layanan, serta melacak status pesanan secara real-time. Bagian ini juga menyimpan riwayat transaksi dan informasi penting lainnya yang relevan bagi pengguna.
