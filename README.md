@@ -25,7 +25,7 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 
 ## Fitur setiap modul
 
-### Modul User
+### Fitur modul User
 
 1. Pendaftaran & Login: Pelanggan dapat membuat akun baru dan masuk ke sistem menggunakan email atau nomor telepon.
 
@@ -49,7 +49,7 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 
 
 
-### Modul Kasir
+### Fitur modul Kasir
 
 1. Dasbor Kasir: Halaman utama yang menampilkan ringkasan pesanan yang harus dikerjakan, pesanan yang baru masuk, dan yang sudah selesai hari itu.
 
@@ -66,7 +66,7 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
     - Mencetak struk atau nota sebagai bukti transaksi.
 
 
-### Modul Admin
+### Fitur modul Admin
 
 1. Manajemen Layanan dan Harga: Admin memiliki kontrol penuh untuk menambah, mengubah, atau menghapus jenis layanan yang ditawarkan beserta harganya (misalnya, harga per pakaian untuk cuci setrika).
 
