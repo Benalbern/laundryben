@@ -85,4 +85,8 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 <img width="1399" height="1011" alt="Flowchart drawio (1) (2)" src="https://github.com/user-attachments/assets/87f83fd9-0b3d-4304-b26a-3169b8c798fd" />
 
 
+## DB Diagram
+
+
+<img width="1313" height="701" alt="Laundry Eben" src="https://github.com/user-attachments/assets/c43831aa-7468-4c1b-a7c2-03394a638063" />
 
