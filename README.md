@@ -21,3 +21,9 @@ Modul ini digunakan oleh staf di outlet laundry. Fungsinya adalah untuk mencatat
 ### Modul Admin
 
 Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengontrol seluruh bisnis, seperti mengatur harga semua layanan, melihat data semua pelanggan, mengelola akun karyawan, dan memantau laporan pendapatan harian atau bulanan untuk evaluasi bisnis.
+
+
+<img width="1399" height="1011" alt="Flowchart drawio (1) (2)" src="https://github.com/user-attachments/assets/87f83fd9-0b3d-4304-b26a-3169b8c798fd" />
+
+
+
