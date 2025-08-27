@@ -90,3 +90,12 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 
 <img width="1313" height="701" alt="Laundry Eben" src="https://github.com/user-attachments/assets/c43831aa-7468-4c1b-a7c2-03394a638063" />
 
+## Diagram Usecase
+
+<img width="526" height="721" alt="usecaseLaundry drawio" src="https://github.com/user-attachments/assets/3a42799f-6f6f-4d04-9d24-0009380901af" />
+
+## Diagram Activity
+
+<img width="761" height="1033" alt="activityLaundry drawio" src="https://github.com/user-attachments/assets/fc8b32bc-5c2b-482a-8952-12b39ce47195" />
+
+
