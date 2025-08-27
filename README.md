@@ -33,17 +33,17 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 
 3. Pelacakan Status Pesanan (Real-time Tracking): Fitur utama di mana pelanggan dapat memantau status cucian mereka secara langsung, seperti:
 
-Pesanan Dibuat
+    -Pesanan Dibuat
 
-Diproses oleh Kasir
+    -Diproses oleh Kasir
 
-Proses Pencucian
+    -Proses Pencucian
 
-Proses Pengeringan & Setrika
+    -Proses Pengeringan & Setrika
 
-Siap Diambil
+    -Siap Diambil
 
-Selesai
+    -Selesai
 
 Riwayat Transaksi: Menyimpan semua catatan pesanan yang pernah dilakukan, lengkap dengan detail layanan dan total biaya.
 
