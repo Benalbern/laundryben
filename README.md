@@ -29,7 +29,7 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 
 1. Pendaftaran & Login: Pelanggan dapat membuat akun baru dan masuk ke sistem menggunakan email atau nomor telepon.
 
-2. Pemesanan Layanan (Order Online): Pelanggan bisa membuat pesanan laundry baru kapan saja, memilih jenis layanan yang tersedia (misalnya: cuci setrika, setrika saja, dry clean, cuci karpet).
+2. Pemesanan Layanan (Order Online): Pelanggan bisa membuat pesanan laundry baru kapan saja, memilih jenis layanan yang tersedia (misalnya: cuci setrika, setrika saja, cuci saja, DLL).
 
 3. Pelacakan Status Pesanan (Real-time Tracking): Fitur utama di mana pelanggan dapat memantau status cucian mereka secara langsung, seperti:
 
@@ -45,20 +45,38 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 
     - Selesai
 
-Riwayat Transaksi: Menyimpan semua catatan pesanan yang pernah dilakukan, lengkap dengan detail layanan dan total biaya.
+4. Riwayat Transaksi: Menyimpan semua catatan pesanan yang pernah dilakukan, lengkap dengan detail layanan dan total biaya.
 
-Notifikasi Otomatis: Sistem mengirimkan pemberitahuan (notifikasi) kepada pelanggan saat ada pembaruan status penting, terutama ketika pesanan sudah siap diambil.
-
-Manajemen Profil: Pelanggan dapat mengubah atau memperbarui informasi pribadi mereka seperti nama, alamat, dan nomor telepon.
 
 
 ### Modul Kasir
 
-Modul ini digunakan oleh staf di outlet laundry. Fungsinya adalah untuk mencatat semua pesanan yang masuk, baik dari pelanggan yang datang langsung maupun yang memesan lewat aplikasi. Sistem ini juga otomatis menghitung total biaya dan mencetak nota pembayaran, sehingga pelayanan jadi lebih cepat dan rapi.
+1. Dasbor Kasir: Halaman utama yang menampilkan ringkasan pesanan yang harus dikerjakan, pesanan yang baru masuk, dan yang sudah selesai hari itu.
+
+2. Manajemen Pesanan: Kasir dapat melihat dan mengelola semua pesanan yang masuk dari aplikasi pelanggan (online) maupun mencatat pesanan baru untuk pelanggan yang datang langsung (offline/walk-in).
+
+3. Update Status Pesanan: Kasir bertugas memperbarui status setiap pesanan sesuai dengan proses pengerjaan yang sebenarnya (misalnya, dari "diterima" menjadi "proses cuci").
+
+4. Sistem Point of Sale (POS): Berfungsi sebagai mesin kasir digital untuk:
+
+    - Menghitung total biaya secara otomatis berdasarkan jenis layanan.
+
+    - Mencatat pembayaran dari pelanggan.
+
+    - Mencetak struk atau nota sebagai bukti transaksi.
+
 
 ### Modul Admin
 
-Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengontrol seluruh bisnis, seperti mengatur harga semua layanan, melihat data semua pelanggan, mengelola akun karyawan, dan memantau laporan pendapatan harian atau bulanan untuk evaluasi bisnis.
+1. Manajemen Layanan dan Harga: Admin memiliki kontrol penuh untuk menambah, mengubah, atau menghapus jenis layanan yang ditawarkan beserta harganya (misalnya, harga per pakaian untuk cuci setrika).
+
+2. Manajemen Pengguna:
+
+    - Data Pelanggan: Melihat seluruh daftar pelanggan yang terdaftar di sistem.
+
+    - Akun Staf/Kasir: Membuat, mengedit, atau menonaktifkan akun untuk karyawan kasir.
+
+3. Manajemen Laporan Keuangan: Kemampuan untuk melihat dan mengunduh laporan pendapatan yang lebih lengkap dalam periode waktu tertentu (mingguan, bulanan, tahunan) untuk keperluan analisis bisnis.
 
 
 ## Flowchart Aplikasi
