@@ -82,12 +82,11 @@ Ini adalah dasbor utama untuk pemilik atau manajer. Dari sini, mereka bisa mengo
 
 ## DB Diagram
 
-
 <img width="1313" height="701" alt="Laundry Eben" src="https://github.com/user-attachments/assets/c43831aa-7468-4c1b-a7c2-03394a638063" />
 
 ## Diagram Usecase
 
-<img width="526" height="721" alt="usecaseLaundry drawio" src="https://github.com/user-attachments/assets/3a42799f-6f6f-4d04-9d24-0009380901af" />
+<img width="821" height="871" alt="usecaseLaundry drawio (5)" src="https://github.com/user-attachments/assets/78591aa9-edd3-467e-a550-219943999cde" />
 
 ## Diagram Activity
 
